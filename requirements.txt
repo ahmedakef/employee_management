@@ -1,4 +1,3 @@
-adium-theme-ubuntu==0.3.4
 alembic==0.9.5
 beautifulsoup4==4.4.1
 chardet==2.3.0
@@ -14,7 +13,6 @@ Flask-SQLAlchemy==2.2
 Flask-Testing==0.6.2
 Flask-WTF==0.14.2
 gviewer==3.0.6
-gyp==0.1
 html5lib==0.999
 httplib2==0.9.1
 itsdangerous==0.24
@@ -34,7 +32,6 @@ pytz==2017.2
 pyxdg==0.25
 six==1.10.0
 SQLAlchemy==1.1.11
-unity-lens-photos==1.0
 urwid==1.3.1
 visitor==0.1.3
 Werkzeug==0.12.2
